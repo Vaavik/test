@@ -7,6 +7,7 @@ int main(){
 		return 1;
 	}
 
+	printf("...and Mars\n");
 	return 0;
 
 }
